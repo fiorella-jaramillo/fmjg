@@ -13,7 +13,7 @@ And that is when the second weak signal showed itself, how our culture, and what
 Is it that important as I feel? Or it is just chamanism. Is it ok to be a chaman and use technology?
 What are the limits, and, where are the boundaries?  Can we coexist pacefully, can we work together for the same cause? Anyway, we all are in the same planet.
 
-![](../images/MT01/DIAGRAM1.jpg)
+![](../doc/images/MT01/DIAGRAM1.jpg)
 
 
 MULTISCALAR DIAGRAM
