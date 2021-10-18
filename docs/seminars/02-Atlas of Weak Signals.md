@@ -13,7 +13,7 @@ And that is when the second weak signal showed itself, how our culture, and what
 Is it that important as I feel? Or it is just chamanism. Is it ok to be a chaman and use technology?
 What are the limits, and, where are the boundaries?  Can we coexist pacefully, can we work together for the same cause? Anyway, we all are in the same planet.
 
-![](../doc/images/MT01/DIAGRAM1.jpg)
+![](../image/DIAGRAM1.jpg)
 
 
 MULTISCALAR DIAGRAM
@@ -24,7 +24,7 @@ Also, an electricity towers system was buzzing.
 So, this was a reminder that we were still close to the city. And of course, to supply our demands. So the question is, Is there another way? Are these vibrations and buzzing affect the animals and plants? Or us ?.
 Going home, plants still going around, and the buzzing started to disappear, but, was it disappear or just we get used to the sound? or maybe other kinds of buzzing or vibrations appeared, to normalize it?
 
-![](../images/MT01/DIAGRAM2.jpg)
+![](../images/DIAGRAM2.jpg)
 
 COLLABORATIVE DESIGN SPACE
 It was very interesting and exciting to find similar interests in the group, linked to the spiritual, holistic, ancestral, and technology.
@@ -46,4 +46,4 @@ Biology
 Mushrooms
 Chamanism
 
-![](/doc/images/MT01/DIAGRAM3.jpg)
+![](../images/DIAGRAM3.jpg)
