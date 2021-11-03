@@ -37,7 +37,7 @@ Experimentation of art, tech and biology.
 [Gilberto Esparza](https://gilbertoesparza.net/)
 
 
-**EXPERIMENTS OF PROGRESS**
+**EXPERIMENTS ON PROGRESS**
 
 EXPERIMENT1: TURN ON A LED WITH A POTATOE BATTERY
 The experiment works, but the Amperage wasn´t enough with the selected potatoes, next task is try with more potatoes, and with more area of metals, and compare the result.
