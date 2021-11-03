@@ -55,11 +55,11 @@ It was very interesting and exciting to find similar interests in the group, lin
 
 WOULD LIKE TO CONTACT
 
-Julia Wats.
+-Julia Wats.
 *Lo-TEK Radical Indigenism.*
 
 
-Claudia Pasquero.
+-Claudia Pasquero.
 *EcoLogicStudio.*
 
 
