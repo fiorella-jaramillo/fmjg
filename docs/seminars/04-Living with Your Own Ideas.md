@@ -6,7 +6,7 @@ hide:
 # Living with Your Own Ideas
 
 
-Task: ***To create a machine for me*** using *whatever item you have near.*
+Task: ***To create a machine for me*** using *whatever item Is have near.*
 *What do I require these days to integrate it in my dayle life?.*
 
 So, start from the previous ideas and experiments regarding *how can we coexist peacefully?*, these days I was looking for friendly options for generating energy. It was a complex task because of the lack of solutions to generate what we require in our daily life or at least a bit. 
@@ -30,8 +30,58 @@ IMAGE OF THE GROUP MACHINES
 
 ![](../images/livin3.jpg)
 
+
 In our group, ***BIO, TECH, ANCESTRY,*** we care about the balance energy; the interaction carefully with nature; the music, frequency, and waves that expand from the environment, the understanding of cycles, the knowledge of the respect to the earth; we still looking for the connection to nature and everything that it is related to it.
 
 It was surprisingly the similarity between our projects and the exploration that the design action could have and the projection of our conscience in our projects.
 
 What I had acquired with this creative process was the playful way to approach solutions and the exploration of ideas by doing it.
+
+
+**THE VIDEO**
+
+In search of *how can we coexist peacefully*, I did a video in the first-personal exploration of how can I connect with nature living in the city.
+So, I start a collection of messages from nature picking trees and plants, using as a tool *akashic records channeling*
+
+
+HOW CAN I CONNECT TO NATURE IN THE CITY?
+
+![](../images/video0.gif)
+
+
+THE GUIDED REFLECTION
+
+*Define Boundaries.*
+It was a personal appreciation of how I can connect with nature been in the city, going around places I use to spend time. What I had realized was that as a citizen we have a certain speed of doing our activities, so, to feel close o nature I had to **reduce the speed of the daily routines**.
+It started from my building to the beach, **10 blocks to the around**.
+The connection took more time than I thought at the beginning, and it required much more energy to do it.
+
+*Authenticity*
+The first day was difficult to start the activities with the picked trees, also, I was ashamed to hug the tree because of the people around, the noises, etc. I had to diminish the velocity of my movements, walking slower, stopping several times to appreciate nature.
+The next day was easier I was already trained in how to do it. Something to remind was that the second day I felt comfortable, even proud of how can I was handling the process and, sometimes I felt like a child without any prejudices and it became a game.
+
+*Plausibility or scholarship*
+It seems to me, that there is a movement of engagement with nature because of global warming and so on. In addition, new holistic practices as meditation, spirituality, or recent discoveries of quantum physics, that give us a new perspective on how can we address life differently.
+
+*Criticality*
+It felt like a ritual.
+It became very personal, and I guess that at the beginning I didn´t know how everything could work. It was a beautiful experience for me, and maybe it could help many ones, but I speculate that is not that inclusive, or maybe it is if I put a sign/thing (chair) on every tree to hug or just look at it. How will people react?
+Anyway, What I can keep from this activity as a possible utility are options to disconnect from the speed of the city to connect to nature or yourself. 
+
+*Self-revealing communication*
+Even though they are open phrases, they were somehow related to me.
+It seems to me, that what was kept away from the video doesn’t affect the result. But, at the same time, I feel that each tree has a story itself…
+Some of the phrases don’t appear.
+While I was doing the activity, sometimes, I was thinking of how it is going to be shown, or took extra photos and videos. 
+
+*Ethnographic material with confessional content*
+In the beginning, I thought that the information that I could receive from the trees could be related to the city, but they were very general and resonated with me, I guess I could ask other questions, or prepare better the experience.
+Contemplation, and reducing the speed of our daily routines to appreciate not just nature, appreciate ***me***, my time, as well, or to appreciate the city itself. I felt very grateful. 
+Sometimes, I felt being in a bubble or *“in my own world”*, playing around with trees and plants as a child.
+
+*Generalizability*
+For me, the main message was “go-to basics¨”, why it is ok to hug a tree if you are a child and not now. So, what I kept are the sensations and requirements to connect, not the way. Maybe, It could be a meaningful experience to others, however, I can´t tell that it is inclusive and that everyone Will feel what I felt or similar.
+
+
+FOR MY FUTURE WORK ...
+I enjoyed the idea of *exploring to see what was happening*, the transition of a project before  And, the mutability of it during it is in action.

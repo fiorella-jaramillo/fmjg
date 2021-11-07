@@ -7,11 +7,13 @@ hide:
 
 
 EXPERIMENTING WITH BACTERIAS
+I picked two samples of bacteria, one from my shoes, the other one from my cellphone. And, they start growing through the days.s
 
 ![](../images/ab1.jpg)
 
 
 ELABORATING LAUREL ESCENTIAL OIL 
+Great and very laborious job.
 
 ![](../images/ab2.jpg)
 
