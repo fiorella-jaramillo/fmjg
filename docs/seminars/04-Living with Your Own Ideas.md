@@ -48,6 +48,7 @@ HOW CAN I CONNECT TO NATURE IN THE CITY?
 
 ![](../images/video0.gif)
 
+[VIDEO](https://vimeo.com/643485743)
 
 THE GUIDED REFLECTION
 
