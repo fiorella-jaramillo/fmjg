@@ -87,3 +87,9 @@ For me, the main message was “go-to basics¨”, why it is ok to hug a tree if
 
 FOR MY FUTURE WORK ...
 I enjoyed the idea of *exploring to see what was happening*, the transition of a project before  And, the mutability of it during it is in action.
+
+PD:::: 
+*my faces and the trees.*
+
+![](../images/livin0.gif)
+
