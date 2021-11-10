@@ -22,6 +22,8 @@ Forensic Report: Apple Computer 2006
 
 ## Examination 
 
+:::warning
+
 serial number: CK6s0083WH4
 Brand: Apple (in California)
 Model: A1195
@@ -29,6 +31,7 @@ Color: White
 Assemblied in: China
 Specifications: Canadian ICES-003 Class B
 
+:::
 
 ## Forensic Questions
 
