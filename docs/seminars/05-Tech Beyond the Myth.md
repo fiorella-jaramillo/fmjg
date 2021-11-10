@@ -8,7 +8,7 @@ hide:
 Forensic Report: Apple Computer 2006
 ===============
 
-![](../images/5/50.jpg)
+![](../images/5/500.jpg)
 
 
 | Identity of the reporting agency       | MDEF                           |
@@ -22,7 +22,6 @@ Forensic Report: Apple Computer 2006
 
 ## Examination 
 
-:::warning
 
 serial number: CK6s0083WH4
 Brand: Apple (in California)
@@ -31,7 +30,6 @@ Color: White
 Assemblied in: China
 Specifications: Canadian ICES-003 Class B
 
-:::
 
 ## Forensic Questions
 
@@ -42,19 +40,6 @@ I have an Intel processor and 8 GB of RAM. It have a monitor and  3 USB ports, 2
 This device could be used for personal use or work.
 This computer in particular still works fine but the capacity of the new equipment makes it obsolete and slow, not adequate to work with the requirements of the equipment, which is  the case of some of the electronic devices. It is not used because it is cheaper and accessible  to buy new equipment at a lower cost. Also hardware like the main processor is expensive and difficult to replace for a new one in order to maintain the device in optimal operation. The RAM memory could be replaced but it is difficult for anyone.
 Also Apple stops at certain points to release actualizations to the IOS so that lead to small failures and errors in everyday use.
-
----
-
-**How does it work?** 
-* the chargeable battery provides power.
-
----
-
-**How it's built?** 
-* body (aluminium and polipropilene)
-* * screws
-* wires
-* boards
 
 ---
 
@@ -86,6 +71,7 @@ Datasheet for the logicboard (motherboard)
 
 ![](../images/5/PROCESS6.jpg)
 
+![](../images/5/50.jpg)
 
 ## Conclusions
 
@@ -124,4 +110,13 @@ We can find also few alloys for heat displacement like aluminum and copper.
 
 There are also tiny plastic part that make the connection to the back part of the computer and the boards or the optical unit to the lateral of the computer.
 
-![](../images/5/PROCESS7.gif)
+DETAILS
+
+![](../images/5/DETAIL1.jpg)
+![](../images/5/DETAIL2.jpg)
+![](../images/5/DETAIL3.jpg)
+![](../images/5/DETAIL4.jpg)
+![](../images/5/DETAIL5.jpg)
+![](../images/5/DETAIL6.jpg)
+
+
