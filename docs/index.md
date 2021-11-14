@@ -1,17 +1,18 @@
-##  .::..::::.° :eyes:  !!! °°°°°°.:::.:. 
+##  :eyes: 
 
+<span style="color:greenyellow;">.</span> 
 
-
-*#fun* :balloon: 
-*#observation #exploration <span style="color:greenyellow;">#documentation</span> #research*
-*#ancestralfutures #indiginism #holistic #magic #energy <span style="color:blue;">#chamanism</span> #panpsychism*
-*<span style="color:orange;">#plants</span> #animals #fungi #us #nature*
+*#fun* 
+*#observation #exploration #documentation #research*
+*#ancestralfutures #indiginism #holistic #magic #energy #chamanism #panpsychism*
+*<#plants #animals #fungi #us #nature*
 *#circulareconomy #community*
 *#cyberbiomes #solarpunks*
-*#algae #bioluminiscence <span style="color:red">#light</span> #beach #seawaterenergy #movement*
+*#algae #bioluminiscence #light #beach #seawaterenergy #movement*
 
 ***
-
+	***
+			***
 
 > Email-style angle brackets are used for blockquotes.
 >> You can also nest them.
@@ -21,3 +22,4 @@
 
 > To break the nested blockquote, add a space between lines.
 
+<span style="color:greenyellow;">#documentation</span> 
