@@ -124,11 +124,15 @@ There are also tiny plastic parts that make the connection to the back part of t
 
 ![](../images/5/DETAIL2.jpg)
 
-![](../images/5/PROCESS7.jpg)
+![](../images/5/PROCESS7.gif)
 
-![](../images/5/5a.jpg)
+![](../images/5/5a.gif)
 
-***
+
+***********
+***********
+***********
+***********
 
 Sense-Making Journal - Urban Gardeners
 ====================
