@@ -14,7 +14,6 @@ I put my Cellphone on top of a cardboard cylinder of approximately 50cm long and
 I hope someone has documented me, it was that fun that I forgot to ask for it.
 
 ![](../images/documentation/doc1A.gif)   ![](../images/documentation/doc2A.gif)   ![](../images/documentation/doc3A.gif)
-
 ![](../images/documentation/doc4A.gif)   ![](../images/documentation/doc5A.gif)   ![](../images/documentation/doc6A.gif)
 
 
