@@ -1,10 +1,6 @@
 ##  :eyes: 
 
-<span style="color:greenyellow;">.</span> 
-
-
 ***
-
 	*#fun* 
 	*#observation #exploration #documentation #research*
 	*#ancestralfutures #indiginism #holistic #magic #energy #chamanism #panpsychism*
@@ -12,11 +8,19 @@
 	*#circulareconomy #community*
 	*#cyberbiomes #solarpunks*
 	*#algae #bioluminiscence #light #beach #seawaterenergy #movement*
-	
 
 
 
 
+
+
+
+
+
+<span style="color:greenyellow;">#documentation</span> 
+
+
+![](../images/emojis/1f388.png)
 
 
 > Email-style angle brackets are used for blockquotes.
@@ -26,8 +30,3 @@
 > * Etc.
 
 > To break the nested blockquote, add a space between lines.
-
-<span style="color:greenyellow;">#documentation</span> 
-
-
-![](../images/1f388.png)
