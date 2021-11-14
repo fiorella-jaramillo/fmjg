@@ -110,13 +110,6 @@ We can find also few alloys for heat displacement like aluminum and copper.
 
 There are also tiny plastic part that make the connection to the back part of the computer and the boards or the optical unit to the lateral of the computer.
 
-DETAILS
-
-![](../images/5/DETAIL1.jpg)
 ![](../images/5/DETAIL2.jpg)
-![](../images/5/DETAIL3.jpg)
-![](../images/5/DETAIL4.jpg)
-![](../images/5/DETAIL5.jpg)
-![](../images/5/DETAIL6.jpg)
 
 
