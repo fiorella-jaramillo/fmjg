@@ -13,8 +13,8 @@ Learning how to document in **First-Person Perspective**
 I put my Cellphone on top of a cardboard cylinder of approximately 50cm long and placed it on my back, I began to run the video and greet my colleagues. It was a strange sensation because I didn't see what and how I was filming it and people weren't looking at me either. So I relaxed and started playing.
 I hope someone has documented me, it was that fun that I forgot to ask for it.
 
-![](../images/documentation/doc1A.gif) ![](../images/documentation/doc2A.gif) ![](../images/documentation/doc3.gif)
-![](../images/documentation/doc4.gif) ![](../images/documentation/doc5.gif) ![](../images/documentation/doc6.gif)
+![](../images/documentation/doc1A.gif) ![](../images/documentation/doc2A.gif) ![](../images/documentation/doc3A.gif)
+![](../images/documentation/doc4A.gif) ![](../images/documentation/doc5A.gif) ![](../images/documentation/doc6A.gif)
 
 
 *********
