@@ -12,7 +12,7 @@ Learning how to document in **First-Person Perspective**
 I put my Cellphone on top of a cardboard cylinder of approximately 50cm long and placed it on my back, I began to run the video and greet my colleagues. It was a strange sensation because I didn't see what and how I was filming it and people weren't looking at me either. So I relaxed and started playing.
 I hope someone has documented me, it was that fun that I forgot to ask for it.
 
-![](../images/documentation/doc1.gif) ![](../images/documentation/doc2.gif) ![](../images/documentation/doc3.gif)
+![](../images/documentation/doc1A.gif) ![](../images/documentation/doc2.gif) ![](../images/documentation/doc3.gif)
 ![](../images/documentation/doc4.gif) ![](../images/documentation/doc5.gif) ![](../images/documentation/doc6.gif)
 
 
@@ -38,11 +38,10 @@ In some point, it was totally empty; an abandoned place with open doors.
 ![](../images/documentation/doc10.jpg)
 
 
-# How am I documenting and comunicating my currently work?
+***HOW AM I DOCUMENTING AND COMMUNICATING MY CURRENTLY WOROK?***
 It seems to me that my documentation is very focused on mini videos, photos, gifs, and now I am trying to put emoticons but I don´t crack it yet. And, I consider that I have to improve my ways of communication to be understood. Furthermore, to get deep into the communication of the processes and results, involving me on it, and not just as an outsider. 
 
-# Extra topics
-
+***EXTRA TOPICS***
 >
 ***leviathan (2012)***
 >
