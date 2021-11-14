@@ -29,5 +29,8 @@ I am exploring with what I am discovering in the Mdef Program and the city.
 	First time reparing something. ! :)
 ![](../images/explorations/mouse0.gif)
 
-
-
+**MOCO Museum:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::**	
+*********
+	#artinstallation #contemporaryart #light #mirrow
+	Discovering art installations.
+![](../images/explorations/moco.gif)
