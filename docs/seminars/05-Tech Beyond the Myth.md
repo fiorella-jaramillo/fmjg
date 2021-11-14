@@ -45,7 +45,6 @@ Also Apple stops at certain points to release actualizations to the IOS so that 
 
 ## Steps taken
 
-
 **Opening the laptop**
 First of all we checked if the computer worked. It can be switched on and on the screen appears the log in accounts. 
 We could check that the iMac worked but we couldn’t check if any program could be run. So, we cannot affirm if the iMac was discarded because of the requirements or utility. 
@@ -73,9 +72,23 @@ Datasheet for the logicboard (motherboard)
 
 ![](../images/5/50.jpg)
 
+
+## Results
+
+Q.How many motors we find inside, does it contain a computer or microcontroller?
+3 motors.  It contains a microcontroller.
+
+Q.Did the appliance fail, why?
+It was properly working when we turned it on.
+
+Q.Did the appliance failed?Why?
+This computer in particular still works fine but the capacity of the new equipment makes it obsolete and slow, not adequate to work with the requirements of the equipment, which is  the case of some of the electronic devices. It is not used because it is cheaper and accessible  to buy new equipment at a lower cost. Also hardware like the main processor is expensive and difficult to replace for a new one in order to maintain the device in optimal operation.The RAM memory could be replaced but it is difficult for anyone.
+Also Apple stops at certain points to release actualizations to the IOS so that lead to small failures and errors in everyday use.
+
+
 ## Conclusions
 
-It was all different kinds of functions and its parts combined in one box. Each functional part was connected to the motherboard with plugs in so that it sends signals to tell what to do through the cords. 
+It was all different kinds of functions and its parts combined in one box. Each functional part was connected to the motherboard with plugs in.
 
 Most of the parts are made by different suppliers. 
 
@@ -83,33 +96,34 @@ Camera, speakers, disc utility, microphone, and hard drive are easy to recognize
 
 When we accidentally dropped the CPU to the floor, it bent and was unable to be used again. Some parts are really fragile when it's open.
 
-Camera is isolated from the main function. We noticed that this can be turned on  without the computer's signal so we never know if the computer is reliable until we open it.
-
 There are more than 100 screws used inside.
 
-Most of the metal parts are aluminum. Metals are both made in the process of stamped or molded.
+Most of the metal parts are aluminum. Metals are both manufactured by stamping, the stand might be molded. 
 
-Plastic parts(box) are polycarbonate. 
+Plastic parts(box) are coated polycarbonate.
 
 Everything except the screen is covered with an aluminium sheet in order to avoid heat and radiation.
 
 Some screws are hidden and some parts are glued so that Apple technical support will be able to know if a user opens the computer by themself so that Apple will not support it anymore.
 
 
+
 ## Opinion
 
- At opening from the bottom there are two kind of screws, the normal one Phillips screwdriver, but they use a special type of head that is not available to general in public, so that doesn not allow anyone to open the device, you have to take it to Tech support in order to have it open and the computer
+At opening from the bottom there are two kind of screws, the normal one Phillips screwdriver, but they use a special type of head that is not available to general in public, so that doesn not allow anyone to open the device, you have to take it to Tech support in order to have it open and the computer
 
 The camera card is no attached to the led that show when it is turned on, they are two separates circuits,  so that opens a discussion about how that hardware is used, if it is fully controlled by the user with a physical switch or controlled by a backend command by the builder
-The computer has several seals that show when the user opens it,  like small aluminum sheets ori foils  that you have to tear it down. If you do so, that will show to the tech support  when the user opens it and therefore lose the guarantee of the device. With that,  they make sure that the consumer prefer no to open it and to conserve the guarantee.
 The body  it Is combined with the PC plastic and steel as a structure, aluminum is used as an isolation back and forward.
 
 There are a lot of boards with different materials, connectors , circuits and capacitors and disipators and most of them are fixed by special screws, almost 85% of them, the rest are regular screws.
 
-We can find also few alloys for heat displacement like aluminum and copper.
+We can also find a few metals for heat displacement like aluminum and copper.
 
-There are also tiny plastic part that make the connection to the back part of the computer and the boards or the optical unit to the lateral of the computer.
+There are also tiny plastic parts that make the connection to the back part of the computer and the boards or the optical unit to the lateral of the computer.
+
 
 ![](../images/5/DETAIL2.jpg)
 
+![](../images/5/PROCESS7.jpg)
 
+![](../images/5/5a.jpg)

@@ -7,13 +7,13 @@ I am exploring with what I am discovering in the Mdef Program and the city.
 
 
 
-**Growing food::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::**	
+**Growing food::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::**	
 *********
 	#gardening #avocadoseed #naturetime
 	Will it survive the winter?
 ![](../images/explorations/avocado0.gif)
 
-**Composting:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::**	
+**Composting:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::**	
 *********
 	#californiansworms #pet #abono #starter #leaves #wip
 	I bought 50 pets, and after somre research they are not enough to eat my organic
@@ -23,7 +23,7 @@ I am exploring with what I am discovering in the Mdef Program and the city.
 	is balanced.
 ![](../images/explorations/g0.gif)
 
-**Fixing mouse::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::**	
+**Fixing mouse::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::**	
 *********
 	#Screwdriver #coulter #comingsoon
 	First time reparing something. ! :)
