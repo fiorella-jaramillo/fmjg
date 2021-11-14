@@ -357,3 +357,9 @@ We didn't pay attention to the noise sensor so we made some noise discussing jus
 
 
 Scale the process : To record more accurate and more comparable data, it would be better to record a full day and not just 10 minutes to know how much light the location gets. Here we just recorded 10 minutes in each spot and not at the same time of the day (between 1pm and 4:30pm).
+
+
+
+***********
+***********
+***********
