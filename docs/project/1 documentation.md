@@ -3,24 +3,31 @@ hide:
     - toc
 ---
 
-# Documentation
+# Documentation Beyond Presentation
 
 Learning how to document in **First Person Perspective**
 
 *********
     EXPERIMENT 1
 
-![](../images/documentatioin/doc1.gif) ![](../images/documentatioin/doc2.gif) ![](../images/documentatioin/doc3.gif)
-![](../images/documentatioin/doc4.gif) ![](../images/documentatioin/doc5.gif) ![](../images/documentatioin/doc6.gif)
+![](../images/documentation/doc1.gif) ![](../images/documentation/doc2.gif) ![](../images/documentation/doc3.gif)
+![](../images/documentation/doc4.gif) ![](../images/documentation/doc5.gif) ![](../images/documentation/doc6.gif)
 
 
 *********
     EXPERIMENT 2
 
-![](../images/documentatioin/doc7.jpg)
+![](../images/documentation/doc7.jpg)
 
-![](../images/documentatioin/doc8.jpg)
+![](../images/documentation/doc8.jpg)
 
-![](../images/documentatioin/doc9.jpg)
+![](../images/documentation/doc9.jpg)
 
-![](../images/documentatioin/doc10.jpg)
+![](../images/documentation/doc10.jpg)
+
+
+# How am I documenting and comunicating my currently work?
+
+
+
+
