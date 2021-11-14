@@ -46,14 +46,3 @@ The experiment works, but the Amperage wasn´t enough with the selected potatoes
 
 ![](../images/experiment2.jpg)
 
-
-EXPERIMENT2: COMPARE TYPES OF COMPOST AN TRY TO GENERATE ENERGY FROM THEM
-I am sharing this experiment with Rei, a friend and Mdef classmate, We have the boxes to compost, we are collecting the leaves for the first layer. And the Californian worms just arrive!.
-
-![](../images/E5.jpg)
-
-
-EXPERIMENT3: KOMBUCHA
-In the week 03 - Agri & Bio Zero, we start a baby kombucha, but it didn´t work, so, I ask for a new scooby in the Kombucha community, and it just arrive yesterday as well.
-
-![](../images/E6.jpg)
