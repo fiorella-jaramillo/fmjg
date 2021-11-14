@@ -1,8 +1,8 @@
-##  .::..::::.°
+##  .::..::::.° :eyes:  !!! °°°°°°.:::.:. 
 
 
 
-*#fun*
+*#fun* :balloon: 
 *#observation #exploration <span style="color:greenyellow;">#documentation</span> #research*
 *#ancestralfutures #indiginism #holistic #magic #energy <span style="color:blue;">#chamanism</span> #panpsychism*
 *<span style="color:orange;">#plants</span> #animals #fungi #us #nature*
