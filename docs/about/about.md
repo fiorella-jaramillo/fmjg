@@ -21,7 +21,7 @@ I am exploring with what I am discovering in the Mdef Program and the city.
 	It seems to me, they are cold in the rooftop because they don´t move, now I´m 
 	peting them in my room, happily does not smell bad as long as the humidity
 	is balanced.
-![](../images/explorations/g0.gif)
+![](../images/explorations/g.gif)
 
 **Fixing mouse::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::**	
 *********
