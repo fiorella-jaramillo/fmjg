@@ -35,12 +35,19 @@ TESTING SOIL, PH MEASUREMENT
 ![](../images/ab3.jpg)
 
 
-**Hypothetical Designed Organism description**
+**HYPOTHETICAL DESIGN ORGANISM DESCRIPTION**
+
+[Silk Protein (spidroin)](http://parts.igem.org/wiki/index.php/Part:BBa_K3264000)
+
+References:
+[SPIDroin EngineeRing with chroMoprotein And Natural dye](https://2019.igem.org/Team:GreatBay_SZ)
+
+WORKING PROGRESS . . . .. 
 
 
-
-
-**Research Paper synopsi**
+**RESEARCH PAPAER SYNOPSI**
 
 [Electrochemical Characterisation of bio bottle voltaic BBV Systems Operated with Algae and Built with Recycled Materials](https://www.researchgate.net/publication/324589610_Electrochemical_Characterisation_of_Bio-Bottle-Voltaic_BBV_Systems_Operated_with_Algae_and_Built_with_Recycled_Materials)
 
+
+WORKING PROGRESS . . . .. 
