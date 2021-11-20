@@ -46,8 +46,9 @@ WORKING PROGRESS . . . ..
 
 
 **RESEARCH PAPER SYNOPSI**
-
+>
 [Electrochemical Characterisation of bio bottle voltaic BBV Systems Operated with Algae and Built with Recycled Materials](https://www.researchgate.net/publication/324589610_Electrochemical_Characterisation_of_Bio-Bottle-Voltaic_BBV_Systems_Operated_with_Algae_and_Built_with_Recycled_Materials)
+>
 
 The paper explains why and how we can generate renewable energy with algae through photosynthesis using recycling materials.
 
