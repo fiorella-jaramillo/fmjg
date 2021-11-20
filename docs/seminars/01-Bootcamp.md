@@ -5,8 +5,7 @@ hide:
 
 # Bootcamp
 
-WHAT IS MY FIGHT?
-
+**WHAT IS MY FIGHT?**
 
 My fight is to question how can we coexist with the nature without disturb or damage the environment of the animals, plants, fungi; or ourselves, as well.
 >
@@ -25,7 +24,12 @@ In the poster, there is an image that I took two days ago when I went to the bea
 As a designer, I have learned, as a priority, to understand how to address a design to optimize the experience of users in the plan of any project. However, recently, appeared in my mind, actions and factors that we have to look for and fight for. 
 
 
-HYBRID PROFILES
+**EXPECTATIONS**
+
+I feel very curious about being in BCN, I perceive it as a small, contemporary, and multicultural city near to the beach and a Region Natural Park. I have the feeling that various activities can be generated in the city and the people, hopefully it reaches the time.
+
+
+**HYBRID PROFILES**
 
 How do I recognize myself as a designer?
 Am I conscious of all the potentials and weaknesses that I have?
@@ -37,7 +41,7 @@ Am I conscious of all the potentials and weaknesses that I have?
 After elaborate the profile, I have realized skills, knowledge and attitudes that I wasn´t aware of. It was an exercise to recognize.
 
 
-ADDRESSING THE NEW KNOWLEDGE 
+**ADDRESSING THE NEW KNOWLEDGE**
 
 ![](../images/SKILLS2.jpg)
 

@@ -36,9 +36,10 @@ TESTING SOIL, PH MEASUREMENT
 
 *********
 *********
-# **HYPOTHETICAL DESIGN ORGANISM DESCRIPTION**
+**HYPOTHETICAL DESIGN ORGANISM DESCRIPTION**
 *********
-      : : : M U T A N T : : :
+      : : : M U T A N T: SPIDER-LEAVES : : :
+*Took proteins from the spider that generates the* *and* ***elastic*** *of its silk and put them in to a tree with big leaves to been used as a fabric.*
 
 
 
@@ -46,11 +47,12 @@ TESTING SOIL, PH MEASUREMENT
 
 
 
-[Silk Protein (spidroin)](http://parts.igem.org/wiki/index.php/Part:BBa_K3264000)
 
 References:
--[SPIDroin EngineeRing with chroMoprotein And Natural dye](https://2019.igem.org/Team:GreatBay_SZ)
--
+
+[Silk Protein (spidroin)](http://parts.igem.org/wiki/index.php/Part:BBa_K3264000)
+[SPIDroin EngineeRing with chroMoprotein And Natural dye](https://2019.igem.org/Team:GreatBay_SZ)
+
 
 WORKING PROGRESS . . . .. 
 
@@ -61,7 +63,7 @@ WORKING PROGRESS . . . ..
 
 *********
 *********
-# **RESEARCH PAPER SYNOPSI**
+**RESEARCH PAPER SYNOPSI**
 
 >
 [Electrochemical Characterisation of bio bottle voltaic BBV Systems Operated with Algae and Built with Recycled Materials](https://www.researchgate.net/publication/324589610_Electrochemical_Characterisation_of_Bio-Bottle-Voltaic_BBV_Systems_Operated_with_Algae_and_Built_with_Recycled_Materials)
@@ -79,3 +81,14 @@ As a result shown in the paper, algae culture and the biofilm it generates weren
 
 *********
 *********
+**EXTRA EXPERIMENTING TOPICS**
+*********
+      C O M P O S T I N G
+
+      K O M B U C H A
+
+      G R O W I N G    F O O D
+
+      P L A N T S    R E S E A R C H I N G 
+
+    
