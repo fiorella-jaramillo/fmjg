@@ -43,7 +43,7 @@ To use two natural species that are already naturally integrated into the habita
 
 ![](../images/ab10.jpg)
 
-[photo link ](https://www.flickr.com/photos/gairid/3955238773/)
+[photo: gairid1791](https://www.flickr.com/photos/gairid/3955238773/)
 
 >
 *To generate the mutant, took monomers from the spider that generates the* ***strength*** *and* ***elastic*** *of its silk and put them in to a tree with big leaves or directly to the leaves; to been used as a textile fabric.*
