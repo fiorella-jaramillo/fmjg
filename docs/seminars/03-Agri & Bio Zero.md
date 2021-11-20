@@ -39,7 +39,7 @@ TESTING SOIL, PH MEASUREMENT
 **HYPOTHETICAL DESIGN ORGANISM DESCRIPTION**
 *********
       : : : M U T A N T: SPIDER-LEAVES : : :
-*Took proteins from the spider that generates the* *and* ***elastic*** *of its silk and put them in to a tree with big leaves to been used as a fabric.*
+*Took proteins from the spider that generates the* ***strength*** *and* ***elastic*** *of its silk and put them in to a tree with big leaves to been used as a fabric.*
 
 
 
@@ -89,6 +89,6 @@ As a result shown in the paper, algae culture and the biofilm it generates weren
 
       G R O W I N G    F O O D
 
-      P L A N T S    R E S E A R C H I N G 
+      P L A N T     R E S E A R C H  
 
     
