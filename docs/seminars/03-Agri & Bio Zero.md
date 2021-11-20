@@ -35,7 +35,7 @@ TESTING SOIL, PH MEASUREMENT
 ![](../images/ab3.jpg)
 
 
-**HYPOTHETICAL DESIGN ORGANISM DESCRIPTION**
+# **HYPOTHETICAL DESIGN ORGANISM DESCRIPTION**
 
 [Silk Protein (spidroin)](http://parts.igem.org/wiki/index.php/Part:BBa_K3264000)
 
@@ -45,12 +45,13 @@ References:
 WORKING PROGRESS . . . .. 
 
 *********
-**RESEARCH PAPER SYNOPSI**
+# **RESEARCH PAPER SYNOPSI**
 *********
 >
 [Electrochemical Characterisation of bio bottle voltaic BBV Systems Operated with Algae and Built with Recycled Materials](https://www.researchgate.net/publication/324589610_Electrochemical_Characterisation_of_Bio-Bottle-Voltaic_BBV_Systems_Operated_with_Algae_and_Built_with_Recycled_Materials)
 >
 *********
+
 The paper explains why and how we can generate renewable energy with algae through photosynthesis using recycling materials.
 
 The paper explains that photoelectrochemical systems are an emerging possibility for renewable energy, exploiting photosynthesis algae to transform the energy of the sun light into electricity. The used algae are *Chlorella sorokiniana*. 
