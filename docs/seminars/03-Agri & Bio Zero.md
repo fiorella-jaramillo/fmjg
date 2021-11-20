@@ -41,18 +41,7 @@ TESTING SOIL, PH MEASUREMENT
       : : : M U T A N T::::::::  S P I D E R - L E A F : : :
 *Took proteins from the spider that generates the* ***strength*** *and* ***elastic*** *of its silk and put them in to a tree with big leaves to been used as a fabric.*
 
-*Spider silk are torsionally superelastic in that they can reversibly withstand great torsion
-strains of over 10^{2-3} rotations per cm before failure.* (3)
-
-The protein that generates **strenght** in the spider silk is the ***SPIDRON***
-
-
-; and the protein that generates **elastic** is the 
-
-
-
-
-
+The spider silk is a biopolymer that generates spider silk. ***Major Spidroin Protein 2*** *MaSp1 contributes strength to the fiber, while* ***Major Spidroin Protein 2*** *MaSp2 contributes elasticity* (4). In addition, *"spider silks are torsionally superelastic in that they can reversibly withstand great torsion strains of over 10^{2-3} rotations per cm before failure"...* (3) 
 
 
 
@@ -61,13 +50,8 @@ References:
 1. [Silk Protein (spidroin)](http://parts.igem.org/wiki/index.php/Part:BBa_K3264000)
 2. [SPIDroin EngineeRing with chroMoprotein And Natural dye](https://2019.igem.org/Team:GreatBay_SZ)
 3. [Optically_probing_torsional_superelasticity_in_spider_silks](https://www.researchgate.net/publication/260705644_Optically_probing_torsional_superelasticity_in_spider_silks)
-
-
-WORKING PROGRESS . . . .. 
-
-
-
-
+4. [Proteins Spider Silk](/http://parts.igem.org/Part:BBa_K1763002)
+5. [Programming Spider Silk](http://2015.igem.org/Team:UCLA/Project/Programming_Spider_Silk)
 
 
 *********
