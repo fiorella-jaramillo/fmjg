@@ -43,13 +43,14 @@ To use two natural species that are already naturally integrated into the habita
 
 ![](../images/ab10.jpg)
 
-[photo link)](https://www.flickr.com/photos/gairid/3955238773/)
+[photo link ](https://www.flickr.com/photos/gairid/3955238773/)
 
 >
 *To generate the mutant, took monomers from the spider that generates the* ***strength*** *and* ***elastic*** *of its silk and put them in to a tree with big leaves or directly to the leaves; to been used as a textile fabric.*
 >
 
-To use two nature 
+
+
 The spider silk is a biopolymer that generates spider silk, it has monomers which ones conteins its properties, ***Major Spidroin Protein 2*** *MaSp1 contributes strength to the fiber, while* ***Major Spidroin Protein 2*** *MaSp2 contributes elasticity* (4). In addition, *"spider silks are torsionally superelastic in that they can reversibly withstand great torsion strains of over 10^{2-3} rotations per cm before failure"...* (3).
 
 Both have to be put into the *"plant"* in proportions that are required for  the textile to work as we have it programmed, we could also have different textile options combining both monomers.
