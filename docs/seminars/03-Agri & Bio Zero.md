@@ -38,8 +38,16 @@ TESTING SOIL, PH MEASUREMENT
 *********
 **HYPOTHETICAL DESIGN ORGANISM DESCRIPTION**
 *********
-      : : : M U T A N T: SPIDER-LEAVES : : :
+      : : : M U T A N T::::::::  S P I D E R - L E A F : : :
 *Took proteins from the spider that generates the* ***strength*** *and* ***elastic*** *of its silk and put them in to a tree with big leaves to been used as a fabric.*
+
+*Spider silk are torsionally superelastic in that they can reversibly withstand great torsion
+strains of over 10^{2-3} rotations per cm before failure.* (3)
+
+The protein that generates **strenght** in the spider silk is the ***SPIDRON***
+
+
+; and the protein that generates **elastic** is the 
 
 
 
@@ -50,8 +58,9 @@ TESTING SOIL, PH MEASUREMENT
 
 References:
 
-[Silk Protein (spidroin)](http://parts.igem.org/wiki/index.php/Part:BBa_K3264000)
-[SPIDroin EngineeRing with chroMoprotein And Natural dye](https://2019.igem.org/Team:GreatBay_SZ)
+1. [Silk Protein (spidroin)](http://parts.igem.org/wiki/index.php/Part:BBa_K3264000)
+2. [SPIDroin EngineeRing with chroMoprotein And Natural dye](https://2019.igem.org/Team:GreatBay_SZ)
+3. [Optically_probing_torsional_superelasticity_in_spider_silks](https://www.researchgate.net/publication/260705644_Optically_probing_torsional_superelasticity_in_spider_silks)
 
 
 WORKING PROGRESS . . . .. 
@@ -84,14 +93,14 @@ As a result shown in the paper, algae culture and the biofilm it generates weren
 **EXTRA EXPERIMENTING TOPICS**
 
       C O M P O S T I N G
-[process](https://fiorella-jaramillo.github.io/fmjg/About/composting/)
+[process °](https://fiorella-jaramillo.github.io/fmjg/About/composting/)
 *********
       K O M B U C H A
-[process](https://fiorella-jaramillo.github.io/fmjg/About/kombucha/)        
+[process °](https://fiorella-jaramillo.github.io/fmjg/About/kombucha/)        
 ***************************
       G R O W I N G    F O O D
-[process](https://fiorella-jaramillo.github.io/fmjg/About/growing%20food/)
+[process °](https://fiorella-jaramillo.github.io/fmjg/About/growing%20food/)
 ******************
       P L A N T     R E S E A R C H  
-[process](https://fiorella-jaramillo.github.io/fmjg/About/plant%20research/)
+[process °](https://fiorella-jaramillo.github.io/fmjg/About/plant%20research/)
  *********   

@@ -42,7 +42,7 @@ In some point, it was totally empty; an abandoned place with open doors.
 ***HOW AM I DOCUMENTING AND COMMUNICATING MY CURRENTLY WOROK?***
 It seems to me that my documentation is very focused on mini videos, photos, gifs, and now I am trying to put emoticons but I don´t crack it yet. And, I consider that I have to improve my ways of communication to be understood. Furthermore, to get deep into the communication of the processes and results, involving me on it, and not just as an outsider. 
 
-***EXTRA TOPICS***
+**EXTRA TOPICS**
 >
 ***leviathan (2012)***
 >
