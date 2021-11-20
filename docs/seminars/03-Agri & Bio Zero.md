@@ -84,14 +84,14 @@ As a result shown in the paper, algae culture and the biofilm it generates weren
 **EXTRA EXPERIMENTING TOPICS**
 
       C O M P O S T I N G
-      [process](https://fiorella-jaramillo.github.io/fmjg/About/composting/)
+[process](https://fiorella-jaramillo.github.io/fmjg/About/composting/)
 *********
       K O M B U C H A
-      [process](https://fiorella-jaramillo.github.io/fmjg/About/kombucha/)        
+[process](https://fiorella-jaramillo.github.io/fmjg/About/kombucha/)        
 ***************************
       G R O W I N G    F O O D
-      [process](https://fiorella-jaramillo.github.io/fmjg/About/growing%20food/)
+[process](https://fiorella-jaramillo.github.io/fmjg/About/growing%20food/)
 ******************
       P L A N T     R E S E A R C H  
-      [process](https://fiorella-jaramillo.github.io/fmjg/About/plant%20research/)
+[process](https://fiorella-jaramillo.github.io/fmjg/About/plant%20research/)
  *********   
