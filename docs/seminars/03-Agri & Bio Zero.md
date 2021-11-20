@@ -34,23 +34,38 @@ TESTING SOIL, PH MEASUREMENT
 
 ![](../images/ab3.jpg)
 
-
+*********
+*********
 # **HYPOTHETICAL DESIGN ORGANISM DESCRIPTION**
+*********
+      : : : M U T A N T : : :
+
+
+
+
+
+
 
 [Silk Protein (spidroin)](http://parts.igem.org/wiki/index.php/Part:BBa_K3264000)
 
 References:
-[SPIDroin EngineeRing with chroMoprotein And Natural dye](https://2019.igem.org/Team:GreatBay_SZ)
+-[SPIDroin EngineeRing with chroMoprotein And Natural dye](https://2019.igem.org/Team:GreatBay_SZ)
+-
 
 WORKING PROGRESS . . . .. 
 
+
+
+
+
+
+*********
 *********
 # **RESEARCH PAPER SYNOPSI**
-*********
+
 >
 [Electrochemical Characterisation of bio bottle voltaic BBV Systems Operated with Algae and Built with Recycled Materials](https://www.researchgate.net/publication/324589610_Electrochemical_Characterisation_of_Bio-Bottle-Voltaic_BBV_Systems_Operated_with_Algae_and_Built_with_Recycled_Materials)
 >
-*********
 
 The paper explains why and how we can generate renewable energy with algae through photosynthesis using recycling materials.
 
@@ -62,3 +77,5 @@ Materials they used to do the experiment are recycled PET plastic bottles to con
 
 As a result shown in the paper, algae culture and the biofilm it generates weren´t affected by the aluminum in it; algae can generate electricity using recycled materials. However, the energy output is very low to turn up equipment that we usually use, but it was used in art events and might be shown as a toolkit in schools, as the paper suggests. Apparently, in order to obtain results to be used in daily life, it is required to have *low-energy* devices off-grid.
 
+*********
+*********
