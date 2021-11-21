@@ -40,15 +40,15 @@ It seems to me that my documentation is very focused on mini videos, photos, gif
 This is the resume in GIFs of the two weeks of documentation of joyful, stressful, and very fun workshop **Tech Beyond the Myth**.
 
 *********
-    Chapter #0      TAKE OUT YOUR TOOLKIT: WE ARE GOING TO OPEN SOME TOYS
+    Chapter #0      TAKE OUT YOUR TOOLKIT: We are going to open some toys
 ![](../images/documentation/videogif/1a.gif) ![](../images/documentation/videogif/2a.gif) ![](../images/documentation/videogif/3a.gif)
 
 *********
-    Chapter #1      TAKE OUT YOUR TOOLKIT: WE ARE GOING TO OPEN SOME TOYS
+    Chapter #1      FORENCIC REPORT: Open the Apple Computer 2006
 ![](../images/documentation/videogif/4a.gif) ![](../images/documentation/videogif/5a.gif) ![](../images/documentation/videogif/6a.gif)
 
 *********
-    Chapter #2      TAKE OUT YOUR TOOLKIT: WE ARE GOING TO OPEN SOME TOYS
+    Chapter #2      START THE GAME: Who wants to start?
 ![](../images/documentation/videogif/7a.gif) ![](../images/documentation/videogif/8a.gif) ![](../images/documentation/videogif/9a.gif)
 
 *********
