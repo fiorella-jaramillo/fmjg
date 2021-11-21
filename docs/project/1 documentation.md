@@ -39,6 +39,38 @@ It seems to me that my documentation is very focused on mini videos, photos, gif
 **2. VIDEO JOURNALING**
 This is the resume in GIFs of the two weeks of documentation of joyful, stressful, and very fun workshop **Tech Beyond the Myth**.
 
+*********
+    #0      TAKE OUT YOUR TOOLKIT: WE ARE GOING TO OPEN SOME TOYS
+
+*********
+    #1      TAKE OUT YOUR TOOLKIT: WE ARE GOING TO OPEN SOME TOYS
+
+*********
+    #2      TAKE OUT YOUR TOOLKIT: WE ARE GOING TO OPEN SOME TOYS
+
+*********
+    #3      TAKE OUT YOUR TOOLKIT: WE ARE GOING TO OPEN SOME TOYS
+
+*********
+    #4      TAKE OUT YOUR TOOLKIT: WE ARE GOING TO OPEN SOME TOYS
+
+*********
+    #5      TAKE OUT YOUR TOOLKIT: WE ARE GOING TO OPEN SOME TOYS
+
+*********
+    #6      TAKE OUT YOUR TOOLKIT: WE ARE GOING TO OPEN SOME TOYS
+
+*********
+    #7      TAKE OUT YOUR TOOLKIT: WE ARE GOING TO OPEN SOME TOYS
+
+*********
+    #8      TAKE OUT YOUR TOOLKIT: WE ARE GOING TO OPEN SOME TOYS
+
+*********
+    #9      TAKE OUT YOUR TOOLKIT: WE ARE GOING TO OPEN SOME TOYS
+
+*********
+    #10     TAKE OUT YOUR TOOLKIT: WE ARE GOING TO OPEN SOME TOYS
 
 
 
