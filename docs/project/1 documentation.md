@@ -39,49 +39,39 @@ It seems to me that my documentation is very focused on mini videos, photos, gif
 **2. VIDEO JOURNAL**
 This is the resume in GIFs of the two weeks of documentation of joyful, stressful, and very fun workshop **Tech Beyond the Myth**.
 
-*********
     Chapter #0      TAKE OUT YOUR TOOLKIT: We are going to open some toys
 ![](../images/documentation/videogif/1a.gif) ![](../images/documentation/videogif/2a.gif) ![](../images/documentation/videogif/3a.gif)
 
-*********
     Chapter #1      FORENCIC REPORT: Open the Apple Computer 2006
 ![](../images/documentation/videogif/4a.gif) ![](../images/documentation/videogif/5a.gif) ![](../images/documentation/videogif/6a.gif)
 
-*********
     Chapter #2      START THE GAME: Team work 
 ![](../images/documentation/videogif/7a.gif) ![](../images/documentation/videogif/8a.gif) ![](../images/documentation/videogif/9a.gif)
 
-*********
     Chapter #3      CAREFUL: Are we going to rebuild the machine?
 ![](../images/documentation/videogif/10a.gif) ![](../images/documentation/videogif/11a.gif) ![](../images/documentation/videogif/12a.gif)
 
-*********
     Chapter #4      SCREEN: Step by step . .. 
 ![](../images/documentation/videogif/13a.gif) ![](../images/documentation/videogif/14a.gif) ![](../images/documentation/videogif/15a.gif)
 
-*********
-    Chapter #5      MACHINE: Cool boards
+    Chapter #5      MACHINE: Cool findings
 ![](../images/documentation/videogif/16a.gif) ![](../images/documentation/videogif/17a.gif) ![](../images/documentation/videogif/18a.gif)
 
-*********
-    Chapter #6      PIECES: details 
-![](../images/documentation/videogif/19a.gif) ![](../images/documentation/videogif/20a.gif) ![](../images/documentation/videogif/21a.gif)
+    Chapter #6      PROCESS: pieces and more pieces
+![](../images/documentation/videogif/17a.gif) ![](../images/documentation/videogif/18a.gif) ![](../images/documentation/videogif/19a.gif)
 
+    Chapter #7      PIECES: details 
+![](../images/documentation/videogif/20a.gif) ![](../images/documentation/videogif/21a.gif) ![](../images/documentation/videogif/22a.gif)
+
+*********
 *********
     Chapter #7      SENSE-MAKING JOURNAL: Urban Gardeners, brainstorming
-![](../images/documentation/videogif/22a.gif) ![](../images/documentation/videogif/23a.gif) ![](../images/documentation/videogif/24a.gif)
 
-*********
     Chapter #8      TAKE OUT YOUR TOOLKIT: WE ARE GOING TO OPEN SOME TOYS
-![](../images/documentation/videogif/25a.gif) ![](../images/documentation/videogif/26a.gif) ![](../images/documentation/videogif/27a.gif)
 
-*********
     Chapter #9      TAKE OUT YOUR TOOLKIT: WE ARE GOING TO OPEN SOME TOYS
-![](../images/documentation/videogif/28a.gif) ![](../images/documentation/videogif/29a.gif) ![](../images/documentation/videogif/30a.gif)
 
-*********
     Chapter #10     TAKE OUT YOUR TOOLKIT: WE ARE GOING TO OPEN SOME TOYS
-![](../images/documentation/videogif/31a.gif) ![](../images/documentation/videogif/32a.gif) ![](../images/documentation/videogif/33.gif)
 
 
 
