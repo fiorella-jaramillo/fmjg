@@ -65,15 +65,6 @@ This is the resume in GIFs of the two weeks of documentation of joyful, stressfu
 
 *********
 *********
-    Chapter #7      SENSE-MAKING JOURNAL: Urban Gardeners, brainstorming
-
-    Chapter #8      TAKE OUT YOUR TOOLKIT: WE ARE GOING TO OPEN SOME TOYS
-
-    Chapter #9      TAKE OUT YOUR TOOLKIT: WE ARE GOING TO OPEN SOME TOYS
-
-    Chapter #10     TAKE OUT YOUR TOOLKIT: WE ARE GOING TO OPEN SOME TOYS
-
-
 
 
 **EXTRA TOPICS**
