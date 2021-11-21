@@ -58,10 +58,10 @@ This is the resume in GIFs of the two weeks of documentation of joyful, stressfu
 ![](../images/documentation/videogif/16a.gif) ![](../images/documentation/videogif/17a.gif) ![](../images/documentation/videogif/18a.gif)
 
     Chapter #6      PROCESS: pieces and more pieces
-![](../images/documentation/videogif/17a.gif) ![](../images/documentation/videogif/18a.gif) ![](../images/documentation/videogif/19a.gif)
+![](../images/documentation/videogif/19a.gif) ![](../images/documentation/videogif/20a.gif) ![](../images/documentation/videogif/21a.gif)
 
     Chapter #7      PIECES: details 
-![](../images/documentation/videogif/20a.gif) ![](../images/documentation/videogif/21a.gif) ![](../images/documentation/videogif/22a.gif)
+![](../images/documentation/videogif/22a.gif) ![](../images/documentation/videogif/23a.gif) ![](../images/documentation/videogif/24a.gif)
 
 *********
 *********
