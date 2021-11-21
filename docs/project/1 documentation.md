@@ -71,8 +71,8 @@ This is the resume in GIFs of the two weeks of documentation of joyful, stressfu
 ![](../images/documentation/videogif/29a.gif) ![](../images/documentation/videogif/30a.gif) 
 ![](../images/documentation/videogif/31a.gif) ![](../images/documentation/videogif/32a.gif) 
 ![](../images/documentation/videogif/33a.gif) ![](../images/documentation/videogif/34a.gif) 
-![](../images/documentation/videogif/35a.gif) ![](../images/documentation/videogif/36a.gif) 
-![](../images/documentation/videogif/37a.gif) ![](../images/documentation/videogif/38a.gif) 
+![](../images/documentation/videogif/35a.gif) ![](../images/documentation/videogif/40a.gif) 
+![](../images/documentation/videogif/36a.gif) ![](../images/documentation/videogif/37a.gif) 
 
 
 **EXTRA TOPICS**
