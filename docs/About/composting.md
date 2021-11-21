@@ -5,6 +5,9 @@ I am exploring with what I am discovering in the Mdef Program and the city.
 *#random*
 
 
+**working progress**
+
+
 **Composting:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::**	
 *********
 	#californiansworms #pet #abono #starter #leaves #wip
@@ -14,3 +17,8 @@ I am exploring with what I am discovering in the Mdef Program and the city.
 	peting them in my room, happily does not smell bad as long as the humidity
 	is balanced.
 ![](../images/explorations/g.gif)
+
+
+
+
+working progress

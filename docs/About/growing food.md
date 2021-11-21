@@ -5,7 +5,7 @@ I am exploring with what I am discovering in the Mdef Program and the city.
 *#random*
 
 
-
+**working progress**
 
 **Growing food::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::**	
 *********
@@ -13,3 +13,4 @@ I am exploring with what I am discovering in the Mdef Program and the city.
 	Will it survive the winter?
 ![](../images/explorations/avocado0.gif)
 
+working progress

@@ -36,41 +36,41 @@ In some point, it was totally empty; an abandoned place with open doors.
 **1. HOW AM I DOCUMENTING AND COMMUNICATING MY CURRENTLY WORK?**
 It seems to me that my documentation is very focused on mini videos, photos, gifs, and now I am trying to put emoticons but I don´t crack it yet. And, I consider that I have to improve my ways of communication to be understood. Furthermore, to get deep into the communication of the processes and results, involving me on it, and not just as an outsider. 
 
-**2. VIDEO JOURNALING**
+**2. VIDEO JOURNAL**
 This is the resume in GIFs of the two weeks of documentation of joyful, stressful, and very fun workshop **Tech Beyond the Myth**.
 
 *********
-    #0      TAKE OUT YOUR TOOLKIT: WE ARE GOING TO OPEN SOME TOYS
+    Chapter #0      TAKE OUT YOUR TOOLKIT: WE ARE GOING TO OPEN SOME TOYS
 
 *********
-    #1      TAKE OUT YOUR TOOLKIT: WE ARE GOING TO OPEN SOME TOYS
+    Chapter #1      TAKE OUT YOUR TOOLKIT: WE ARE GOING TO OPEN SOME TOYS
 
 *********
-    #2      TAKE OUT YOUR TOOLKIT: WE ARE GOING TO OPEN SOME TOYS
+    Chapter #2      TAKE OUT YOUR TOOLKIT: WE ARE GOING TO OPEN SOME TOYS
 
 *********
-    #3      TAKE OUT YOUR TOOLKIT: WE ARE GOING TO OPEN SOME TOYS
+    Chapter #3      TAKE OUT YOUR TOOLKIT: WE ARE GOING TO OPEN SOME TOYS
 
 *********
-    #4      TAKE OUT YOUR TOOLKIT: WE ARE GOING TO OPEN SOME TOYS
+    Chapter #4      TAKE OUT YOUR TOOLKIT: WE ARE GOING TO OPEN SOME TOYS
 
 *********
-    #5      TAKE OUT YOUR TOOLKIT: WE ARE GOING TO OPEN SOME TOYS
+    Chapter #5      TAKE OUT YOUR TOOLKIT: WE ARE GOING TO OPEN SOME TOYS
 
 *********
-    #6      TAKE OUT YOUR TOOLKIT: WE ARE GOING TO OPEN SOME TOYS
+    Chapter #6      TAKE OUT YOUR TOOLKIT: WE ARE GOING TO OPEN SOME TOYS
 
 *********
-    #7      TAKE OUT YOUR TOOLKIT: WE ARE GOING TO OPEN SOME TOYS
+    Chapter #7      TAKE OUT YOUR TOOLKIT: WE ARE GOING TO OPEN SOME TOYS
 
 *********
-    #8      TAKE OUT YOUR TOOLKIT: WE ARE GOING TO OPEN SOME TOYS
+    Chapter #8      TAKE OUT YOUR TOOLKIT: WE ARE GOING TO OPEN SOME TOYS
 
 *********
-    #9      TAKE OUT YOUR TOOLKIT: WE ARE GOING TO OPEN SOME TOYS
+    Chapter #9      TAKE OUT YOUR TOOLKIT: WE ARE GOING TO OPEN SOME TOYS
 
 *********
-    #10     TAKE OUT YOUR TOOLKIT: WE ARE GOING TO OPEN SOME TOYS
+    Chapter #10     TAKE OUT YOUR TOOLKIT: WE ARE GOING TO OPEN SOME TOYS
 
 
 
