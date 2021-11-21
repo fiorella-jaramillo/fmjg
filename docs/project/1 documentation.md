@@ -60,15 +60,15 @@ This is the resume in GIFs of the two weeks of documentation of joyful, stressfu
 ![](../images/documentation/videogif/13a.gif) ![](../images/documentation/videogif/14a.gif) ![](../images/documentation/videogif/15a.gif)
 
 *********
-    Chapter #5      TAKE OUT YOUR TOOLKIT: WE ARE GOING TO OPEN SOME TOYS
+    Chapter #5      MACHINE: Cool boards
 ![](../images/documentation/videogif/16a.gif) ![](../images/documentation/videogif/17a.gif) ![](../images/documentation/videogif/18a.gif)
 
 *********
-    Chapter #6      TAKE OUT YOUR TOOLKIT: WE ARE GOING TO OPEN SOME TOYS
+    Chapter #6      PIECES: details 
 ![](../images/documentation/videogif/19a.gif) ![](../images/documentation/videogif/20a.gif) ![](../images/documentation/videogif/21a.gif)
 
 *********
-    Chapter #7      TAKE OUT YOUR TOOLKIT: WE ARE GOING TO OPEN SOME TOYS
+    Chapter #7      SENSE-MAKING JOURNAL: Urban Gardeners, brainstorming
 ![](../images/documentation/videogif/22a.gif) ![](../images/documentation/videogif/23a.gif) ![](../images/documentation/videogif/24a.gif)
 
 *********
