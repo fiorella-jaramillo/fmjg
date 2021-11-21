@@ -63,8 +63,13 @@ This is the resume in GIFs of the two weeks of documentation of joyful, stressfu
     Chapter #7      PIECES: details 
 ![](../images/documentation/videogif/22a.gif) ![](../images/documentation/videogif/23a.gif) ![](../images/documentation/videogif/24a.gif)
 
+    Chapter #8      VIDEO 
+[VIDEO](https://vimeo.com/XXX)
+
 *********
 *********
+
+
 
 
 **EXTRA TOPICS**
