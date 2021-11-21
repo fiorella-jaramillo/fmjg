@@ -41,33 +41,43 @@ This is the resume in GIFs of the two weeks of documentation of joyful, stressfu
 
 *********
     Chapter #0      TAKE OUT YOUR TOOLKIT: WE ARE GOING TO OPEN SOME TOYS
+![](../images/documentation/videogif/1.gif)
 
 *********
     Chapter #1      TAKE OUT YOUR TOOLKIT: WE ARE GOING TO OPEN SOME TOYS
 
+
 *********
     Chapter #2      TAKE OUT YOUR TOOLKIT: WE ARE GOING TO OPEN SOME TOYS
+
 
 *********
     Chapter #3      TAKE OUT YOUR TOOLKIT: WE ARE GOING TO OPEN SOME TOYS
 
+
 *********
     Chapter #4      TAKE OUT YOUR TOOLKIT: WE ARE GOING TO OPEN SOME TOYS
+
 
 *********
     Chapter #5      TAKE OUT YOUR TOOLKIT: WE ARE GOING TO OPEN SOME TOYS
 
+
 *********
     Chapter #6      TAKE OUT YOUR TOOLKIT: WE ARE GOING TO OPEN SOME TOYS
+
 
 *********
     Chapter #7      TAKE OUT YOUR TOOLKIT: WE ARE GOING TO OPEN SOME TOYS
 
+
 *********
     Chapter #8      TAKE OUT YOUR TOOLKIT: WE ARE GOING TO OPEN SOME TOYS
 
+
 *********
     Chapter #9      TAKE OUT YOUR TOOLKIT: WE ARE GOING TO OPEN SOME TOYS
+
 
 *********
     Chapter #10     TAKE OUT YOUR TOOLKIT: WE ARE GOING TO OPEN SOME TOYS
