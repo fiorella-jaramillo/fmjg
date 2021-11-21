@@ -41,7 +41,7 @@ This is the resume in GIFs of the two weeks of documentation of joyful, stressfu
 
 *********
     Chapter #0      TAKE OUT YOUR TOOLKIT: WE ARE GOING TO OPEN SOME TOYS
-![](../images/documentation/videogif/1.gif)
+![](../images/documentation/videogif/1.gif) ![](../images/documentation/videogif/2.gif) ![](../images/documentation/videogif/3a.gif)
 
 *********
     Chapter #1      TAKE OUT YOUR TOOLKIT: WE ARE GOING TO OPEN SOME TOYS
