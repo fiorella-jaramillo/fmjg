@@ -63,13 +63,16 @@ This is the resume in GIFs of the two weeks of documentation of joyful, stressfu
     Chapter #7      PIECES: details 
 ![](../images/documentation/videogif/22a.gif) ![](../images/documentation/videogif/23a.gif) ![](../images/documentation/videogif/24a.gif)
 
-    Chapter #8      VIDEO 
-[VIDEO](https://vimeo.com/XXX)
-
 *********
 *********
-
-
+    Chapter #800     USELESS MACHINES
+![](../images/documentation/videogif/25a.gif) ![](../images/documentation/videogif/26a.gif) 
+![](../images/documentation/videogif/27a.gif) ![](../images/documentation/videogif/28a.gif) 
+![](../images/documentation/videogif/29a.gif) ![](../images/documentation/videogif/30a.gif) 
+![](../images/documentation/videogif/31a.gif) ![](../images/documentation/videogif/32a.gif) 
+![](../images/documentation/videogif/33a.gif) ![](../images/documentation/videogif/34a.gif) 
+![](../images/documentation/videogif/35a.gif) ![](../images/documentation/videogif/36a.gif) 
+![](../images/documentation/videogif/37a.gif) ![](../images/documentation/videogif/38a.gif) 
 
 
 **EXTRA TOPICS**
