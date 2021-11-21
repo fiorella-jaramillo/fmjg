@@ -30,20 +30,20 @@ I found a cockroach.
 
 In some point, it was totally empty; an abandoned place with open doors.
 
-![](../images/documentation/doc7.jpg)
-
-![](../images/documentation/doc8.jpg)
-
-![](../images/documentation/doc9.jpg)
-
-![](../images/documentation/doc10.jpg)
+![](../images/documentation/doc11.jpg)
 
 
-***HOW AM I DOCUMENTING AND COMMUNICATING MY CURRENTLY WOROK?***
+**1. HOW AM I DOCUMENTING AND COMMUNICATING MY CURRENTLY WORK?**
 It seems to me that my documentation is very focused on mini videos, photos, gifs, and now I am trying to put emoticons but I don´t crack it yet. And, I consider that I have to improve my ways of communication to be understood. Furthermore, to get deep into the communication of the processes and results, involving me on it, and not just as an outsider. 
+
+**2. VIDEO JOURNALING**
+This is the resume in GIFs of the two weeks of documentation of joyful, stressful, and very fun workshop **Tech Beyond the Myth**.
+
+
+
+
+
 
 **EXTRA TOPICS**
 >
-***leviathan (2012)***
->
-
+**Leviathan (2012)**

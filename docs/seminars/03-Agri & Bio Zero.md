@@ -43,7 +43,7 @@ To use two natural species that are already naturally integrated into the habita
 
 ![](../images/ab10.jpg)
 
-[photo: gairid1791](https://www.flickr.com/photos/gairid/3955238773/)
+[photo: gairid1791s](https://www.flickr.com/photos/gairid/3955238773/)
 
 >
 *To generate the mutant, took monomers from the spider that generates the* ***strength*** *and* ***elastic*** *of its silk and put them in to a tree with big leaves or directly to the leaves; to been used as a textile fabric.*
@@ -57,11 +57,11 @@ Both have to be put into the *"plant"* in proportions that are required for  the
 
 References:
 
-1. [Silk Protein (spidroin)](http://parts.igem.org/wiki/index.php/Part:BBa_K3264000)
-2. [SPIDroin EngineeRing with chroMoprotein And Natural dye](https://2019.igem.org/Team:GreatBay_SZ)
-3. [Optically_probing_torsional_superelasticity_in_spider_silks](https://www.researchgate.net/publication/260705644_Optically_probing_torsional_superelasticity_in_spider_silks)
-4. [Proteins Spider Silk](/http://parts.igem.org/Part:BBa_K1763002)
-5. [Programming Spider Silk](http://2015.igem.org/Team:UCLA/Project/Programming_Spider_Silk)
+1. [Silk Protein (spidroin)- IGEM](http://parts.igem.org/wiki/index.php/Part:BBa_K3264000)
+2. [SPIDroin EngineeRing with chroMoprotein And Natural dye - IGEM](https://2019.igem.org/Team:GreatBay_SZ)
+3. [Optically_probing_torsional_superelasticity_in_spider_silks-RESEARCHGATE](https://www.researchgate.net/publication/260705644_Optically_probing_torsional_superelasticity_in_spider_silks)
+4. [Proteins Spider Silk - IGEM](/http://parts.igem.org/Part:BBa_K1763002)
+5. [Programming Spider Silk - IGEM](http://2015.igem.org/Team:UCLA/Project/Programming_Spider_Silk)
 
 
 *********
