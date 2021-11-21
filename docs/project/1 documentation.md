@@ -48,15 +48,15 @@ This is the resume in GIFs of the two weeks of documentation of joyful, stressfu
 ![](../images/documentation/videogif/4a.gif) ![](../images/documentation/videogif/5a.gif) ![](../images/documentation/videogif/6a.gif)
 
 *********
-    Chapter #2      START THE GAME: Who wants to start?
+    Chapter #2      START THE GAME: Team work 
 ![](../images/documentation/videogif/7a.gif) ![](../images/documentation/videogif/8a.gif) ![](../images/documentation/videogif/9a.gif)
 
 *********
-    Chapter #3      TAKE OUT YOUR TOOLKIT: WE ARE GOING TO OPEN SOME TOYS
+    Chapter #3      CAREFUL: Are we going to rebuild the machine?
 ![](../images/documentation/videogif/10a.gif) ![](../images/documentation/videogif/11a.gif) ![](../images/documentation/videogif/12a.gif)
 
 *********
-    Chapter #4      TAKE OUT YOUR TOOLKIT: WE ARE GOING TO OPEN SOME TOYS
+    Chapter #4      SCREEN: Step by step . .. 
 ![](../images/documentation/videogif/13a.gif) ![](../images/documentation/videogif/14a.gif) ![](../images/documentation/videogif/15a.gif)
 
 *********
