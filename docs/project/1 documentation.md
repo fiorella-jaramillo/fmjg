@@ -66,7 +66,7 @@ This is the resume in GIFs of the two weeks of documentation of joyful, stressfu
 *********
 *********
     Chapter #800     USELESS MACHINES
-![](../images/documentation/videogif/25a.gif) ![](../images/documentation/videogif/26a.gif) 
+![](../images/documentation/videogif/250a.gif) ![](../images/documentation/videogif/26a.gif) 
 ![](../images/documentation/videogif/27a.gif) ![](../images/documentation/videogif/28a.gif) 
 ![](../images/documentation/videogif/29a.gif) ![](../images/documentation/videogif/30a.gif) 
 ![](../images/documentation/videogif/31a.gif) ![](../images/documentation/videogif/32a.gif) 
