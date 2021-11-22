@@ -7,6 +7,24 @@ I am exploring with what I am discovering in the Mdef Program and the city.
 **working progress**
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 **Kombucha::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::**	
 *********
 	#scoby #beberash #biomaterial
