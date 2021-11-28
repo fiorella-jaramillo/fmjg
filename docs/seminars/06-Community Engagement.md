@@ -5,7 +5,7 @@ hide:
 
 # Community Engagement
 
-**Finding a challenge that I care about**
+**FINDING A CHALLENGE**
 
 Before finding it, we did an introspection for the direction of our path.
 
