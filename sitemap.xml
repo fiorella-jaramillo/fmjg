@@ -2,62 +2,72 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://fablabbcn.github.io/mdef-template/</loc>
-         <lastmod>2021-11-22</lastmod>
+         <lastmod>2021-11-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://fablabbcn.github.io/mdef-template/About/composting/</loc>
-         <lastmod>2021-11-22</lastmod>
+         <loc>https://fablabbcn.github.io/mdef-template/About/about/</loc>
+         <lastmod>2021-11-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://fablabbcn.github.io/mdef-template/About/growing%20food/</loc>
-         <lastmod>2021-11-22</lastmod>
+         <loc>https://fablabbcn.github.io/mdef-template/project/0%20Chapter%200/</loc>
+         <lastmod>2021-11-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://fablabbcn.github.io/mdef-template/About/kombucha/</loc>
-         <lastmod>2021-11-22</lastmod>
+         <loc>https://fablabbcn.github.io/mdef-template/project/1%20Chapter%201/</loc>
+         <lastmod>2021-11-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://fablabbcn.github.io/mdef-template/About/plant%20research/</loc>
-         <lastmod>2021-11-22</lastmod>
+         <loc>https://fablabbcn.github.io/mdef-template/project/2%20Chapter%202/</loc>
+         <lastmod>2021-11-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://fablabbcn.github.io/mdef-template/project/0%20initial%20ideas/</loc>
-         <lastmod>2021-11-22</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://fablabbcn.github.io/mdef-template/project/1%20documentation/</loc>
-         <lastmod>2021-11-22</lastmod>
+         <loc>https://fablabbcn.github.io/mdef-template/project/3%20Chapter%203/</loc>
+         <lastmod>2021-11-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://fablabbcn.github.io/mdef-template/seminars/01-Bootcamp/</loc>
-         <lastmod>2021-11-22</lastmod>
+         <lastmod>2021-11-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://fablabbcn.github.io/mdef-template/seminars/02-Atlas%20of%20Weak%20Signals/</loc>
-         <lastmod>2021-11-22</lastmod>
+         <lastmod>2021-11-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://fablabbcn.github.io/mdef-template/seminars/03-Agri%20%26%20Bio%20Zero/</loc>
-         <lastmod>2021-11-22</lastmod>
+         <lastmod>2021-11-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://fablabbcn.github.io/mdef-template/seminars/04-Living%20with%20Your%20Own%20Ideas/</loc>
-         <lastmod>2021-11-22</lastmod>
+         <lastmod>2021-11-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://fablabbcn.github.io/mdef-template/seminars/05-Tech%20Beyond%20the%20Myth/</loc>
-         <lastmod>2021-11-22</lastmod>
+         <lastmod>2021-11-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://fablabbcn.github.io/mdef-template/seminars/06-Community%20Engagement/</loc>
+         <lastmod>2021-11-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://fablabbcn.github.io/mdef-template/seminars/07-Extended%20Intelligences/</loc>
+         <lastmod>2021-11-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://fablabbcn.github.io/mdef-template/seminars/08-Designin%20for%20the%20Next%20Billion%20Seconds/</loc>
+         <lastmod>2021-11-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
