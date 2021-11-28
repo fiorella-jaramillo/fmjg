@@ -11,7 +11,8 @@ Before finding it, we did an introspection for the direction of our path.
 
 ![](../images/co/b.jpg)
 
-After this exercise, I had realized that this is the challenge that I care about.
+After this exercise, I had realized that this is the challenge that I care about. Because, 
+I saw myself reflected in several people on street going fast from one point to another, without, actually looking around.  Besides, after the previous body-meditation-action exercises we had in class, it seems to me, that I was more conscious of my posture and the relationship with it in my routines.
 
 ![](../images/co/a.jpg)
 
@@ -27,6 +28,6 @@ After this exercise, I had realized that this is the challenge that I care about
 
 ![](../images/co/d1.jpg)
 
-**Framework with different projects**
+**Populate Framework with different projects**
 
 ![](../images/co/e.jpg)
