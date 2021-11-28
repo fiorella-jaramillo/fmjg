@@ -3,7 +3,7 @@ hide:
     - toc
 ---
 
-# Documentation Beyond Presentation
+# CHAPTER 1 : Documentation Beyond Presentation
 
 Learning how to document in **First-Person Perspective**
 
