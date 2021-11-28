@@ -5,7 +5,12 @@ hide:
 
 # Community Engagement
 
-Finding a challenge that I care about
+**Finding a challenge that I care about**
+Before finding it, we did an introspection for the direction of our path.
+
+![](../images/co/b.jpg)
+
+After this exercise, I had realized that this is the challenge that I care about.
 
 ![](../images/co/a.jpg)
 
