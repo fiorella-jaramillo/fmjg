@@ -23,6 +23,10 @@ After this exercise, I had realized that this is the challenge that I care about
 
 ![](../images/co/d.jpg)
 
+![](../images/co/d0.jpg)
+
+![](../images/co/d1.jpg)
+
 **Framework with different projects**
 
 ![](../images/co/e.jpg)
