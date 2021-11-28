@@ -5,7 +5,7 @@ hide:
 
 # Atlas of Weak Signals
 
-DESIGN SPACE
+**DESIGN SPACE**
 
 The main weak signal I choose was *Cyberbiomes* because I´m very interested in how technology can be related to nature throw arts and culture; how the simbiosis of these can create and evolve. In addition, there are too many options in which this movement can be related to, such us, *SolarPunks*.
 But, while we were developing the exercise, more weak signals appeared in my mind, *Inter-Species Collaboration*, *Ancestral Futures*, *Panpsychism*, concepts that are new for me but at the same time I feel very related and close. 
@@ -20,7 +20,7 @@ What are the limits, and, where are the boundaries?  Can we coexist pacefully, c
 ![](../images/DIAGRAM1.jpg)
 
 
-MULTISCALAR DIAGRAM
+**MULTISCALAR DIAGRAM**S
 
 We started in the Collserola National Park, a protected park nearby the city of Barcelona. So, it enters the Region / National part in the multiscalar diagram.
 Starting from there, it is a privilege to have very close to the city a slight piece of forest to connect with, and at the same time disconnect to wires,  although we always had internet access.
