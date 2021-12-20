@@ -5,3 +5,7 @@ hide:
 
 # Extended Intelligences
 
+
+Experimentations
+
+![](../images/ai/111.jpg)
