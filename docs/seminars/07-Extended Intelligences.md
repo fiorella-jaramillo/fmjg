@@ -8,18 +8,19 @@ hide:
 **Experimentations**
 
 *********
-    Generate
+    Selection of an external portrait
 ![](../images/ai/111a.jpg)
 *********
-    Generate
+    Very notorious changes in the first portrait images
 ![](../images/ai/111.jpg)
 *********
-    Generate
+    Then, the differences went reduced
 ![](../images/ai/112.gif)
 
 *********
     AN AUTOMATED DECISION TOOL
 ![](../images/ai/120.jpg)
+![](../images/ai/120a.jpg)
 ![](../images/ai/121.jpg)
 ![](../images/ai/122.jpg)
 ![](../images/ai/123.jpg)
@@ -44,8 +45,6 @@ This kind of process is a source of “Almost infinite” resources for creativi
 >
 
 >
-
-
 
 *********
     DESIGNING WITH AI WORKSHOP
