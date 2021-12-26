@@ -16,7 +16,7 @@ Experimentations
 ![](../images/ai/120.jpg)
 ![](../images/ai/121.jpg)
 ![](../images/ai/122.jpg)
-![](../images/ai/123.gif)
+![](../images/ai/123.jpg)
 
 **GROUP REFLECTIONS**
 >
