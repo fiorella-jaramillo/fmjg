@@ -43,9 +43,11 @@ This kind of generations can aid in a creative process in order to leave behind 
 The creation of new relationships between the merging or the generation of new images can challenge our understanding of our visual world and the way we perceived it through our vision, we can understand from this, that context is fundamental in the construction of our personal reality. What we think it is real, it is not, what we think it couldn't exist, it could.
 This kind of process is a source of *“Almost infinite”* resources for creativity.  
 
-**PERSONAL REFLECTIONS**
+**PERSONAL REFLECTION**
 >
-In addition, it seems to me that these new espontaneous outputs could 
+*In addition, it seems to me that these new espontaneous outputs could generate trends, not only between the item-selected participants, even so, for other possible users.*
+
+It cold be used as utility in metaverse avatars.
 >
 
 *********
@@ -58,8 +60,3 @@ In addition, it seems to me that these new espontaneous outputs could
 ![](../images/ai/204.jpg)
 ![](../images/ai/205.jpg)
 ![](../images/ai/206.jpg)
-
-**PERSONAL REFLECTIONS**
->
-
->
