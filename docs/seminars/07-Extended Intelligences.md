@@ -47,7 +47,8 @@ This kind of process is a source of *“Almost infinite”* resources for creati
 >
 *In addition, it seems to me that these new espontaneous outputs could generate trends, not only between the item-selected participants, even so, for other possible users.*
 
-It cold be used as utility in metaverse avatars.
+It could be used as utilities o random personalities in metaverse avatars.
+
 >
 
 *********
