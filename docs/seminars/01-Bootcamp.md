@@ -34,8 +34,7 @@ In the poster, there is an image that I took two days ago when I went to the bea
 As a designer, I have learned (as a priority) to understand how to address a design to optimize the experience of users in the plan of any project. However, recently, appeared in my mind, actions and factors that are related to what I explaned lines before that we have to look for and fight for. 
 
 
-**UP-TO-DATED-FIGHT**
-
+**UP-TO-DATED-FIGHT-POSTER**
 ![](../images/POSTER2.jpg)
 
 
