@@ -98,7 +98,7 @@ To join an existed community to generate similar activities with them, not just 
 
 ![](../images/DD/00.gif) ![](../images/DD/01.gif)
 ![](../images/DD/02.gif) ![](../images/DD/03.gif)
-![](../images/DD/04.gif) ![](../images/DD/45.gif)
+![](../images/DD/04.gif) ![](../images/DD/045.gif)
 
 
 
